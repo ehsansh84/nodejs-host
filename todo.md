@@ -1,0 +1,14 @@
+- Support versions: `8`, `10`, `12`, `14`, `16`, `18`
+- Include env file
+- Set domain or sub domain
+- Support for TLS
+- Logs (Project, Database, OS)
+- Host configurations (Json or Yaml)
+- A cli to deploy project to host
+- A hook to call in Github repo
+- Deploy from repo
+- Connect to database
+- Disk management (Partition)
+- FTP access
+- File manager
+- Email service
